@@ -1,1 +1,2 @@
-# BBSPWA3
+# bibliasacra-new
+Biblia Sacra New Version
