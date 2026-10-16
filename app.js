@@ -129,7 +129,7 @@ const FULL_THEMES = {
         text: '#453310',
         font: 'Crimson Pro',
         accent: { color: '#eab308', hover: '#ca8a04', glow: 'rgba(234, 179, 8, 0.45)' },
-        desc: 'Divine warm golden aureole',
+        desc: 'Divine warm golden halo',
         animated: true
     },
     soft_light: {
@@ -240,7 +240,7 @@ const LIVE_EFFECT_NAMES = {
     none: 'Static (None)',
     night_sky: 'Night Sky',
     neon_blue: 'Living Waters',
-    yellow_halo: 'Divine Aureole',
+    yellow_halo: 'Divine Halo',
     golden_age: 'Candlelight',
     red_rose: 'Velvet Crimson',
     eden_sage: 'Eden Laurel',
